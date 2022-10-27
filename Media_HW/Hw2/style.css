@@ -1,0 +1,82 @@
+body {
+    width: 99%;
+
+}
+.PageHead {
+    width: 100%;
+    height: 150px;
+    background-color: grey;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    /*background-color: grey;*/
+    margin-top: 5px;
+}
+.middle {
+    width: 85%;
+    height: 400px;
+}
+.cde    {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.sectorB {
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cards {
+    width: 33%;
+    height:250px;
+    background-color:grey;
+    border-radius: 10px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BottomSector {
+    width: 15%;
+    height: 555px;
+    background-color: grey;
+    border-radius: 10px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width:0px) and (max-width: 900px)
+{
+.main {
+    flex-direction: column;
+
+}
+    .middle {
+        width: 100%;
+    }
+    .cards {
+        height: 90px;
+    }
+    .BottomSector {
+        width: 100%;
+        height: 50px;
+        margin-left: 0;
+    }
+}
+
+

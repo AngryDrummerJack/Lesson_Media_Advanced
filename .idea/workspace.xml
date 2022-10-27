@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffec9c7e-e5c7-470a-ac06-cf20f669d209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_Media.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media_HW/Hw1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media_HW/Hw1/style.css" afterDir="false" />
+    <list default="true" id="ffec9c7e-e5c7-470a-ac06-cf20f669d209" name="Changes" comment="HW1 first upload">
+      <change afterPath="$PROJECT_DIR$/Media_HW/Hw2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media_HW/Hw2/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media_HW/Hw2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +42,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Lesson3/Hw1/index.html&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Lesson_Media/Media_HW/Hw2&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Lesson_Media\Media_HW\Hw2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\Lesson_Media\Media_HW\Hw1" />
     </key>
@@ -62,8 +62,17 @@
       <option name="presentableId" value="Default" />
       <updated>1666849018342</updated>
       <workItem from="1666849019919" duration="2375000" />
-      <workItem from="1666852059385" duration="1571000" />
+      <workItem from="1666852059385" duration="4811000" />
+      <workItem from="1666856930996" duration="923000" />
     </task>
+    <task id="LOCAL-00001" summary="HW1 first upload">
+      <created>1666853931151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666853931151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW1 first upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1 first upload" />
   </component>
 </project>
