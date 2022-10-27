@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffec9c7e-e5c7-470a-ac06-cf20f669d209" name="Changes" comment="HW2 final">
-      <change afterPath="$PROJECT_DIR$/Hw2/normalize.css" afterDir="false" />
+    <list default="true" id="ffec9c7e-e5c7-470a-ac06-cf20f669d209" name="Changes" comment="HW2 final3">
+      <change afterPath="$PROJECT_DIR$/HW_advanced/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_advanced/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_advanced/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
       <recent name="C:\Users\user\IdeaProjects\Lesson_Media\Media_HW\Hw2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Lesson_Media" />
       <recent name="C:\Users\user\IdeaProjects\Lesson_Media\Media_HW\Hw1" />
     </key>
   </component>
@@ -60,7 +64,9 @@
       <updated>1666849018342</updated>
       <workItem from="1666849019919" duration="2375000" />
       <workItem from="1666852059385" duration="4811000" />
-      <workItem from="1666856930996" duration="1222000" />
+      <workItem from="1666856930996" duration="1985000" />
+      <workItem from="1666891256470" duration="615000" />
+      <workItem from="1667122610058" duration="8657000" />
     </task>
     <task id="LOCAL-00001" summary="HW1 first upload">
       <created>1666853931151</created>
@@ -83,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666858155264</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW2 final2">
+      <created>1666858269644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666858269644</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HW2 final3">
+      <created>1666858330787</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666858330787</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1 first upload" />
     <MESSAGE value="HW2 final" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2 final" />
+    <MESSAGE value="HW2 final2" />
+    <MESSAGE value="HW2 final3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2 final3" />
   </component>
 </project>

@@ -1,0 +1,35 @@
+@media screen and (min-width: 0) and (max-width: 900px){
+    .block3mb {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .nav_block {
+        display: none;
+    }
+    .container {
+        width: 100%;
+    }
+    .top_info{
+        height: 20%;
+    }
+    .bottom_info {
+        height: 80%;
+        flex-direction: column;
+        width: 100%;
+    }
+    .bottom_info > div {
+        width: 100%;
+    }
+    .block6h {
+        height: 70%;
+    }
+    .block7h {
+        height: 30%;
+    }
+    .block89mb {
+        display: flex;
+        flex-direction: row;
+    }
+
+}
